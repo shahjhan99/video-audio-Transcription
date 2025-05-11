@@ -1,0 +1,15 @@
+gradio==5.29.0
+openai-whisper
+pyannote.audio==2.1.1
+torch>=1.10
+torchaudio
+moviepy
+tqdm
+matplotlib
+langdetect
+groq
+ffmpeg-python
+scipy
+numpy
+soundfile
+huggingface-hub
